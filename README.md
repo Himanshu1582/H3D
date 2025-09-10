@@ -9,3 +9,4 @@ Leadsbee is a agency website. It's fully responsive.
 6. MixItUp plugin
  
  ## live link : 
+https://h3duratech.netlify.app/
