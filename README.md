@@ -1,5 +1,5 @@
-# leadsbee-responsive
-Leadsbee is a agency website. It's fully responsive. 
+# H3Duratech
+Companies Website. 
 # Technology used : 
 1. HTML 5
 2. CSS 3
